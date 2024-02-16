@@ -10,6 +10,12 @@ body {
     background-attachment: fixed;
 }
 
+@media screen and (min-width: 380px) {
+    body, html {
+        background-color: white;
+    }
+}
+
 .content {
     padding: 1rem;
     background-color: white;
