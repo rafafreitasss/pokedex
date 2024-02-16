@@ -43,7 +43,7 @@ loadMoreButton.addEventListener('click', () => {
     }
 })
 
-function loadPokemonDetails(pokemon) {
+/*function loadPokemonDetails(pokemon) {
     // Preencher o modal com os detalhes do Pokémon
     const modalTitle = document.getElementById('modalTitle');
     const modalBody = document.getElementById('modalBody');
@@ -72,7 +72,7 @@ document.querySelectorAll('.pokemon').forEach((pokemonElement) => {
         // Chama a função para exibir os detalhes do Pokémon
         loadPokemonDetails(pokemon);
     });
-});
+});*/
 
 document.querySelector('#button').addEventListener('click', loadPokemonDetails)
 
