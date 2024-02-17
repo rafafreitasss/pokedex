@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-body, html {
+body {
     background-image: url(https://images3.alphacoders.com/273/273289.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@ h1 {
     align-items: center;
     justify-content: center;
     margin-top: 150px;
-    margin: auto;
+    
 }
 
 .img:hover {

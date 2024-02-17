@@ -11,7 +11,7 @@ body {
 }
 
 @media screen and (min-width: 380px) {
-    body, html {
+    body {
         background-color: white;
     }
 }
